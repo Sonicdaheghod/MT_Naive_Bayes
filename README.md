@@ -15,6 +15,10 @@ This program was created to predict if a car was stolen using data about the car
 
 ## Screenshots
 
+Final predictions by model using test dataset:
+
+<img width="615" alt="image" src="https://github.com/Sonicdaheghod/MT_Naive_Bayes/assets/68253811/d33f8bda-a380-406e-922d-70554d614a93">
+
 
 ## Technologies
 Languages/ Technologies used:
