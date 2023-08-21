@@ -7,6 +7,7 @@ by Megan Tran
 * [Technologies](#technologies)
 * [Setup](#setup)
 * [Using the Program](#Using-the-Program)
+* [Improvements Made](#Improvements-Made)
 * [Credits](#Credits)
 
 ## Purpose of Program
